@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/arduino_cyberpunk.gif" alt="Smart Boom Barrier — hero" width="100%" />
+
 # 🚧 Smart Boom Barrier Control — Arduino
 
 **An automated, sensor-driven boom barrier prototype built on Arduino.**  
